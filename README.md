@@ -1,0 +1,1 @@
+# Fl-ktkontroll-temp.-sensor
