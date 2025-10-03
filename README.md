@@ -63,7 +63,7 @@ if __name__ == "__main__":
     main()
 
 -------------------------------------------
-Steg 3: Starta programmet
+##Steg 3: Starta programmet
 Skriv i terminalen:
 sudo python3 fan_control.py
 
@@ -93,5 +93,7 @@ Så här kan du fortsätta
     • Spara temperaturdata i en loggfil för uppföljning.
 
 Grattis!
+![Optocoupler ritning för flekt kontroll stryr av temp  sensor](https://github.com/user-attachments/assets/4a09230a-be51-459f-a98f-220e4c7dde8a)
+
 Du har nu en fungerande temperaturstyrd fläktkontroll på din BeagleBone. 🎉
 
