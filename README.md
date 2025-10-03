@@ -94,6 +94,4 @@ Så här kan du fortsätta
 
 Grattis
 
-[kopplings_ritning](https://github.com/user-attachments/assets/ea7758d2-3b73-48e4-8858-8187c43865e2)
-
 
