@@ -92,8 +92,7 @@ Så här kan du fortsätta
     • Skapa en tjänst så att programmet startar automatiskt när BeagleBone startar.
     • Spara temperaturdata i en loggfil för uppföljning.
 
-Grattis!
-![Optocoupler ritning för flekt kontroll stryr av temp  sensor](https://github.com/user-attachments/assets/4a09230a-be51-459f-a98f-220e4c7dde8a)
+Grattis
 
 Du har nu en fungerande temperaturstyrd fläktkontroll på din BeagleBone. 🎉
 
