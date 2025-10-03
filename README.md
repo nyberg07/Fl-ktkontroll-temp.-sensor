@@ -93,7 +93,7 @@ Så här kan du fortsätta
     • Spara temperaturdata i en loggfil för uppföljning.
 
 Grattis
-![kopplings_ritning](https://github.com/user-attachments/assets/82727bf8-b1d1-4fdf-8328-43a693fd5685)
 
-Du har nu en fungerande temperaturstyrd fläktkontroll på din BeagleBone. 🎉
+[kopplings_ritning](https://github.com/user-attachments/assets/ea7758d2-3b73-48e4-8858-8187c43865e2)
+
 
